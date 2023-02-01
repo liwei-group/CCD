@@ -90,3 +90,8 @@ Our code is based on [torchdistill](https://github.com/yoshitomo-matsubara/torch
 
 email : shaoshitong@seu.edu.cn
 name : shaoshitong
+
+### Should know
+
+1. The code is only provided for academic research. Any commercial use of this code is prohibited.
+2. The use of our code requires references to this paper.
