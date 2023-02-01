@@ -85,3 +85,8 @@ python train_student_imagenet.py --ccd
 ### Code References
 
 Our code is based on [torchdistill](https://github.com/yoshitomo-matsubara/torchdistill) (e.g., SPKD, KD, SSKD, CRD) and [HSAKD](https://github.com/winycg/HSAKD) (e.g., the training framework).
+
+### Contact us
+
+email : shaoshitong@seu.edu.cn
+name : shaoshitong
